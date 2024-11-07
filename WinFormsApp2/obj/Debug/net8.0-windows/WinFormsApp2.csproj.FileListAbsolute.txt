@@ -1,0 +1,100 @@
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.FormHome.resources
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.BookManagerForm.resources
+C:\Users\HUAWEI\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.LoginForm.resources
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.BookManagerForm.resources
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.FormHome.resources
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.LoginForm.resources
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\Gestion de bibliotheque\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.BookManagerForm.resources
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp1.FormHome.resources
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HUAWEI\source\repos\this is a clone\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
